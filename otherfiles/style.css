@@ -1,0 +1,103 @@
+body
+	{
+		font-family:Tahoma;
+		padding:0px;
+		margin:0px;
+	}
+
+#title
+{
+	font-size:24px;
+	margin-top:20px;
+}
+
+#container
+	{
+		
+		margin-left:auto;
+		margin-right:auto;
+		width:1000px;
+	}
+
+#topHeader
+	{
+		width:100%;
+		background:#222;
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+
+#topHeader a
+	{
+		text-decoration:none;
+		color:#fff;
+		margin-left:30px;
+		font-size:14px;
+	}
+
+#topHeader a:hover
+	{
+		text-decoration:none;
+		color:#bbb;
+		margin-left:30px;
+		font-size:14px;
+	}
+
+select.theSelect
+	{
+		width:200px;
+		padding:5px;
+		margin-right:50px;
+	}
+
+#selection
+	{
+		width:100%;
+		padding:20px;
+		background:#bbb;
+		margin-top:20px;
+	}
+
+a#search
+	{
+		background:#444;
+		float:right;
+		padding:5px;
+		color:#fff;
+		text-decoration:none;
+		width:130px;
+		text-align:center;
+		display:inline-block;
+	}
+
+a#search:hover
+	{
+		background:#222;
+		float:right;
+		padding:5px;
+		color:#fff;
+		text-decoration:none;
+		width:130px;
+		text-align:center;
+		display:inline-block;
+	}
+
+#results
+	{
+		width:100%;
+		padding:20px;
+		background:#eee;
+		margin-top:20px;
+	}
+
+table
+	{
+		border:solid 1px #333;
+		width:100%;
+
+	}
+
+table tr th
+	{
+		border:solid 1px #333;
+	}
